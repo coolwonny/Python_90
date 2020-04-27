@@ -1,16 +1,17 @@
-python = "Python is Amazing"
-print(python.lower())
-print(python.upper())
-print(python[0].isupper())
-print(len(python))
-print(python.replace("Python", "Java"))
+# print("I am {} years old.".format(20))
+# print("I like {} and {} ones".format("Blue", "Red"))
+# print("I like {0} and {1} ones".format("Blue", "Red"))
+# print("I like {1} and {0} ones".format("Blue", "Red"))
 
-index = python.index("n")
-print(index)
-index = python.index("n", index + 1)
-print(index)
+# print("I am {age} years old and like {color} color".format(age = 20, color = "Red"))
 
-print(python.find("Java"))
-print(python.index("Java"))
+# age = 20
+# color = "Red"
+# print(f"I am {age} years old and like {color} color")
 
-print(python.count("n"))
+# print("out of sight\nout of mind")
+# print('I like "coding" too')
+# print("I like \"coding\" too")
+
+print("Redd\bApple")
+print("Red\tApple")
